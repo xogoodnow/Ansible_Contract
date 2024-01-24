@@ -28,7 +28,7 @@ This document outlines the best practices for using Ansible within our SRE team.
 ### 0.0.2: Do not expose sensitive information without vault.
 ### 0.0.3: Keep in mind that what ever you are making is for someone else and not you.
 ### 0.0.4: We start counting from `1` and not `0`.
-
+### 0.0.5: Use yaml instead of yml.
 
 
 
